@@ -1,3 +1,6 @@
+# Hello and welcome to HW3
+**Explained**
+
 <p>Here are the commands I ran:</p>
 
 <pre><code>python3 ebay-dl.py longboard
