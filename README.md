@@ -1,5 +1,5 @@
-# Hello and welcome to HW3
-**Explained**
+# Hello!
+**Welcome to my third homework!**
 
 <p>Here are the commands I ran:</p>
 
