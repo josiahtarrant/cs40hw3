@@ -1,4 +1,4 @@
-# Hello! Welcome to my third homework!
+# Hello! Welcome to my third CSCI40 homework!
 ## At a high level, this file scrapes item data off of ebay for a specific search term.
 ### Here is a more specific explanation of what this `ebay-dl.py` file does:
 1. The file takes the search term from the command line
