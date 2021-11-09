@@ -16,4 +16,4 @@
 <pre><code>python3 ebay-dl.py 'apple watch'
 </code></pre>
 
-<p> **Lastly,** [here](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_03) is the link to this assignment! </p>
+### **Lastly,** [here](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_03) is the link to this assignment!
