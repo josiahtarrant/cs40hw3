@@ -1,5 +1,5 @@
 # Hello! Welcome to my third homework!
-## At a high level, this file scrapes item data off ebay for a specific search term.
+## At a high level, this file scrapes item data off of ebay for a specific search term.
 ### Here is a more specific explanation of what this `ebay-dl.py` file does:
 1. The file takes the search term from the command line
 1. The file downloads ten pages of results from ebay for the supplied search term 
